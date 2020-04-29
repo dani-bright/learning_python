@@ -1,0 +1,1 @@
+lancer conteneur a partir du ducker file : docker build --tag setup:1 .
