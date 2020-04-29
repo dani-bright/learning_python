@@ -1,1 +1,3 @@
-lancer conteneur a partir du ducker file : docker build --tag setup:1 .
+build image a partir du dockerfile : docker build --tag setup:latest .
+
+lancer container : docker run setup
